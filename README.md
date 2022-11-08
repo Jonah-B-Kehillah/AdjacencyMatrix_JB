@@ -1,6 +1,19 @@
 # AdjacencyMatrix_JB
 ## Classes and Methods
-stuff goes here
+- `Node()`
+  - `String toString()`
+  - `Boolean equals(Node n)`
+- `Edge()`
+  - `String toString()`
+- `Graph()`
+  - `Graph(Node[] nodes, Edge[] edges)`
+  - `String getAdjacent(Node n)`
+- 
+  - `Node[] getNodesN()`
+  - `String getNodes()`
+  - `Edge[] getEdgesE()`
+  - `String getEdges()`
+  - `String matrixString()`
 
 ## Acknowledgements
 <ul>
